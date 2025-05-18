@@ -1,3 +1,1 @@
-used_cars.xlsx --> Processed Excel file
-
-used_cars.csv  --> Raw data (USE WITH .IPYNB FILE)
+This project provides an in-depth analysis of used car listings to uncover key insights and trends in the used car market. By examining various factors such as brand, year, fuel type, transmission, ownership, and engine size, the project aims to answer critical questions that can aid buyers, sellers, and dealerships in making informed decisions.
